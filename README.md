@@ -15,4 +15,4 @@ This repository contains projects created during high school as part of learning
 4. Click the **Run** button in Processing to start the game.
 
 ---
-Enjoy exploring my beginner projects!
+Enjoy my beginner projects!
