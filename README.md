@@ -1,6 +1,7 @@
-# High School Programming Projects
+# Game Remake Projects
 
-This repository contains projects created during high school as part of learning how to program for the first time. Each project was developed using [Processing](https://processing.org/) in Java
+This repository contains projects recreating some of my favourite games, which were created early in my experience of learning how to program.
+Each project was developed using [Processing](https://processing.org/) in Java.
 
 ## Projects
 
